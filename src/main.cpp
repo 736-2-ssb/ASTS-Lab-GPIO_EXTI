@@ -1,7 +1,7 @@
 /*******************************************************************************
 * Copyright (C) 2020 TUSUR, FB, #2376  
 * File              : main.cpp
-* Compiler          : NetBeans
+* IDE               : NetBeans
 * Version           : 8.2
 * Created File      : 29.09.2020
 * Last modified     : 29.09.2020
